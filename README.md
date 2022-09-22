@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="SQL Banner.png" alt="Stock Prediction Banner" />
+  <img src="Stock Banner.png" alt="Stock Prediction Banner" />
 </h1>
 
 
@@ -24,11 +24,13 @@ Please, feel free to contribute to the codes any way you can. Comment any script
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/BasseyIsrael/SQL-Execution-Scripts?style=for-the-badge)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/BasseyIsrael/SQL-Execution-Scripts/SQL%20Scripts%20(Database%20Administration)?label=DBA%20Scripts&style=for-the-badge)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/BasseyIsrael/SQL-Execution-Scripts/SQL%20Scripts%20(Database%20Querying)?color=red&label=DB%20Querying%20Scripts&style=for-the-badge)
-![License](https://img.shields.io/github/license/BasseyIsrael/SQL-Execution-Scripts?style=for-the-badge)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CfV6yEsHBjFiJbTKwY72k2g4AvszcF5R)
+![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/BasseyIsrael/Stock-Assets-Prediction?style=for-the-badge)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/BasseyIsrael/Stock-Assets-Prediction/src?label=NOTEBOOKS&style=for-the-badge)
+![Type of ML](https://img.shields.io/badge/ML%20TYPE-TIME%20SERIES%20REGRESSION-red?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/BasseyIsrael/Stock-Assets-Prediction?style=for-the-badge)
+![License](https://img.shields.io/github/license/BasseyIsrael/Stock-Assets-Prediction?style=for-the-badge)
+
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 For the Badges [source](https://shields.io/)
@@ -38,7 +40,7 @@ For the Badges [source](https://shields.io/)
 
 
 
-# **Key findings: In considering the technical indicators as prediction features, The Relative Strength Index (RSI) gives very strong prediction support for Lagged prices**
+# **Key findings: In considering the technical indicators as prediction features, the Relative Strength Index (RSI) gives very strong prediction support for Lagged prices**
 
 </div>
 
@@ -48,15 +50,15 @@ For the Badges [source](https://shields.io/)
 
 ## **Table of Contents**
 
-  - [Introduction & Business Problem](#business-problem)
-  - [Source of Data](#data-source)
-  - [Methods Applied](#methods)
-  - [Quick Glance at Key Results](#tech-stack)
+  - [Introduction & Business Problem](#introduction--business-problem)
+  - [Source of Data](#source-of-data)
+  - [Methods Applied](#methods-applied)
+  - [Quick Glance at Key Results](#quick-glance-at-key-results)
   - [Lessons Learned and Recommendation](#lessons-learned-and-recommendation)
-  - [Limitation and Improvement Opportunities](#limitation-and-what-can-be-improved)
-  - [Explore Notebook](#run-locally)
+  - [Limitation and Improvement Opportunities](#limitations-and-improvement-opportunities)
+  - [Explore Notebook](#explore-notebook)
   - [Contribution](#contribution)
-  - [License](#license)
+  - [License](#license  )
 
 <div align="Justify">
 
@@ -73,7 +75,7 @@ The case of Algorithmic Trading is seen especially in this project, considering 
 - How can we obtain the next day closing price?
 
 
-# **Data source**
+# **Source of Data**
 
 The data used in this project was fetched from the [Alpha_Vantage API](https://www.alphavantage.co/) for stock data.
 
