@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Stock Banner.png" alt="Stock Prediction Banner" />
+  <img src="Assets\Stock Banner.png" alt="Stock Prediction Banner" />
 </h1>
 
 
@@ -210,7 +210,7 @@ LSTMs did not perform well on this as expected, as the data is not using a long 
 
 # **Lessons Learned and Recommendation**
 
-- From the analysis, it was observed that a set of values stand-out as important features in the prediction of the closing price. The value with the highest impact on prediction being the Relative Strength Index (RSI). This is seei=mingly expected considering the volitality of the prices being considered. This is not to say that th eother features play no part in the prediction process, however in a case on further work an dre-application requiring dimensionality reduction, the items to be overlooked are equally presented. 
+- From the analysis, it was observed that a set of values stand-out as important features in the prediction of the closing price. The value with the highest impact on prediction being the Relative Strength Index (RSI). This is seemingly expected considering the volitality of the prices being considered. This is not to say that th eother features play no part in the prediction process, however in a case on further work an dre-application requiring dimensionality reduction, the items to be overlooked are equally presented. 
 - The behaviour of conventional regression algorithms would differ from the behaviour of algorithms specially suited for an application type like time-series forecasting. It is thus necessary to set up relevant features to be considered for prediction when using a set of algorithms.
 
 - Recommendation would be to ensure that the data applied to a pipeline conforms to the necessary, and corresponding Index fund during feature extraction and prediction to keep the relevance of the features and prevent under-performance.
