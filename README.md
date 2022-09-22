@@ -1,5 +1,5 @@
 
-<img src="Stock Banner.png" alt="Stock Prediction Banner" />
+<img src="Stock Banner.PNG" alt="Stock Prediction Banner" />
 
 
 <div align="center">
