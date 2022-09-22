@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Assets/Stock Banner.png" alt="Stock Prediction Banner" />
+  <img src="Stock Banner.png" alt="Stock Prediction Banner" />
 </h1>
 
 
@@ -166,7 +166,7 @@ The LSTM model structure
 
 Giving more insights on the performance, a table showing the average performance for different metrics across the 6 stocks is also presented. 
 
-<img src="Assets\Performance Results.png" alt="Performance" />
+<img src="Performance Results.PNG" alt="Performance" />
 
 
 
