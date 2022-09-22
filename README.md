@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Assets\Stock Banner.png" alt="Stock Prediction Banner" />
+  <img src="Assets/Stock Banner.png" alt="Stock Prediction Banner" />
 </h1>
 
 
