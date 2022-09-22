@@ -1,15 +1,11 @@
-<h1 align="center">
-  <img src="Stock Banner.png" alt="Stock Prediction Banner" />
-</h1>
+
+<img src="Stock Banner.png" alt="Stock Prediction Banner" />
 
 
 <div align="center">
 
 # **Stock Assets Prediction Project**
 
-<h1 align="center">
-  <img src="Stock Banner.png" alt="Stock Prediction Banner" />
-</h1>
 
 </div>
 
