@@ -220,7 +220,7 @@ LSTMs did not perform well on this as expected, as the data is not using a long 
 - Development of an interface that gives the user(s) ease of access to prediction.
 - Using the interface to help users train their own algorithms and work with fresh data.
 
-# **Explore Notebook**
+# **Explore Notebooks**
 
 - [A- Feature Extraction with Technical indicators.ipynb](https://nbviewer.org/github/BasseyIsrael/Stock-Assets-Prediction/blob/main/src/A-%20Feature%20Extraction%20with%20Technical%20indicators.ipynb)
 - [B- Stock Prediction Feature Extraction Pipeline.ipynb](https://nbviewer.org/github/BasseyIsrael/Stock-Assets-Prediction/blob/main/src/B-%20Stock%20Prediction%20Feature%20Extraction%20Pipeline.ipynb)
