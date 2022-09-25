@@ -90,7 +90,7 @@ ts = TimeSeries(key= ALPHA_VANTAGE_API_KEY, output_format='pandas')
 
 # **Methods Applied**
 
-For this project, the aim is to predict the closing pricee of stocks. The project is divided into sections which include Feature Extraction and Prediction. A further project involving Stock Portfolio Optimization can be found in a separate repository [here](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization). 
+For this project, the aim is to predict the closing prices of stocks. The project is divided into sections which include Feature Extraction and Prediction. A further project involving Stock Portfolio Optimization can be found in a separate repository [here](https://github.com/BasseyIsrael/Stock-Portfolio-Optimization). 
 
 ## Feature Extraction [(View)](https://github.com/BasseyIsrael/Stock-Assets-Prediction/blob/main/src/A-%20Feature%20Extraction%20with%20Technical%20indicators.ipynb)
 
